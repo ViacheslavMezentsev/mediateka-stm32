@@ -1,0 +1,2 @@
+:: MOOC - STM32 USB training.
+yt-dlp.exe --download-archive update.lst --ignore-errors -f 22/best -o "%%(upload_date)s %%(playlist_index)02d %%(title)s.%%(ext)s" https://www.youtube.com/playlist?list=PLnMKNibPkDnFFRBVD206EfnnHhQZI4Hxa

@@ -1,0 +1,2 @@
+:: Lectures STM32 v2.
+yt-dlp.exe --download-archive update.lst --ignore-errors -f 22/best -o "%%(upload_date)s %%(playlist_index)02d %%(title)s.%%(ext)s" https://www.youtube.com/playlist?list=PLhtMaaf_npBzsEQ94eGn5RnuE-VdGVObR

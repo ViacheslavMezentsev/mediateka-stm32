@@ -1,0 +1,2 @@
+:: Полный курс FreeRTOS.
+yt-dlp.exe --download-archive update.lst --ignore-errors -f 22/best -o "%%(upload_date)s %%(title)s.%%(ext)s" https://www.youtube.com/watch?list=PLiu4O2eIDAdUz50gTS33a2qozzDSFMouI

@@ -1,0 +1,2 @@
+:: Уроки по stm32 с нуля на keil для stm32f4-discovery
+yt-dlp.exe --download-archive update.lst --ignore-errors -f 22/best -o "%%(upload_date)s %%(playlist_index)02d %%(title)s.%%(ext)s" https://www.youtube.com/playlist?list=PL8OgDYWys_b6XtOjCejd37aVv0ic24jqV
